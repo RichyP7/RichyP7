@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working as solution architect and developer on industry automation and data projects.
+- 🌱 I’m continuously doing research about new Apache Kafka solutions
+- 💬 Ask me anything about modernizing SCADA, Azure or Kubernetes architectueres.
 <!--
 **RichyP7/RichyP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
